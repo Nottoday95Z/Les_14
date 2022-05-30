@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
-    <data-source source="LOCAL" name="netflix" uuid="b07a62d2-a1cb-4770-a494-e3eb24e46d1b">
+    <data-source source="LOCAL" name="netflix.db" uuid="55bb6af3-1711-4ce9-9107-872eab399b77">
       <driver-ref>sqlite.xerial</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
-      <jdbc-url>jdbc:sqlite:C:\Users\user\Downloads\netflix.db</jdbc-url>
+      <jdbc-url>jdbc:sqlite:$PROJECT_DIR$/netflix.db</jdbc-url>
       <working-dir>$ProjectFileDir$</working-dir>
     </data-source>
   </component>
